@@ -1,1 +1,1 @@
-# GitHUbActionPR
+# GitHubActionPR
